@@ -19,3 +19,6 @@ Known Bugs: If the user runs "top" the cursor will be invisible
 when the user exits top. Certain invalid commands will cause the 
 core to dump. One example is "ls ls". Certain command will
 not run. One example of a command that will not run is "cd". 
+
+System: This program has been written on / designed for Minix. 
+All the libraries are standard. 
